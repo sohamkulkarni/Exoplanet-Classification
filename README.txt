@@ -1,0 +1,2 @@
+1. The project contains two data files, one from NASA Exoplanet catalog and the other file from exoplanet.eu which are recognized and accepted as standard datasets for exoplanets.
+2. The entire project is in the file titled gmm.py and the pieces of code per section were run seperately using Ipython notebooks.
